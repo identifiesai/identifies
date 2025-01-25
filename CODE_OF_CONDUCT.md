@@ -51,7 +51,7 @@ This Code of Conduct applies to all project spaces, including GitHub repositorie
 
 ## Reporting Violations
 
-If you witness or are subject to unacceptable behavior, please report it to the project team by emailing [conduct@identifies-ai.com](mailto:conduct@identifies-ai.com). All reports will be reviewed and investigated promptly and confidentially.
+If you witness or are subject to unacceptable behavior, please report it to the project team by emailing [conduct@theidentifies.com](mailto:conduct@theidentifies.com). All reports will be reviewed and investigated promptly and confidentially.
 
 ---
 
